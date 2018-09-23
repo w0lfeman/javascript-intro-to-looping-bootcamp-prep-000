@@ -23,6 +23,6 @@ function doWhileLoop(array) {
   do {array.push()
   }
     while (array.length > 0 && incrementVariable('false'))
-  return array('false')
+  return array
 }
 
