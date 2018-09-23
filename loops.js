@@ -20,6 +20,7 @@ function whileLoop (n) {
 
 
 function doWhileLoop(array) {
-  do incrementVariable()
+  do array.pop()
+  incrementVariable()
 }
 
