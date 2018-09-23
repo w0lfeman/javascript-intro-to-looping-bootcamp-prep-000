@@ -21,7 +21,7 @@ function whileLoop (n) {
 
 function doWhileLoop(array) {
   do incrementVariable()
-    while array
+    while array.length > 0 && incrementVariable()
   return
 }
 
