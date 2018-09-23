@@ -20,9 +20,9 @@ function whileLoop (n) {
 
 
 function doWhileLoop(array) {
-  do {array.
+  do {array.push()
   }
     while (array.length > 0 && incrementVariable())
-  return incrementVariable('false')
+  return array('false')
 }
 
